@@ -1,0 +1,467 @@
+ : 1
+Canada : 2972
+Canada : 3369
+Canada : 3444
+Canada : 3534
+Canada : 4118
+Canada : 8676
+Canada : 8775
+Canada : 9807
+United Kingdom : 12723
+United Kingdom : 12903
+United Kingdom : 13383
+United Kingdom : 13911
+United Kingdom : 13963
+United Kingdom : 15127
+United Kingdom : 17044
+United Kingdom : 18114
+United Kingdom : 19344
+United Kingdom : 21125
+United Kingdom : 25211
+United Kingdom : 26042
+United Kingdom : 26062
+United Kingdom : 26734
+United Kingdom : 28218
+United Kingdom : 28869
+United Kingdom : 30079
+United Kingdom : 30720
+United Kingdom : 32185
+United Kingdom : 32452
+United Kingdom : 32566
+United Kingdom : 34503
+United Kingdom : 36240
+United Kingdom : 36758
+United Kingdom : 44418
+United Kingdom : 44544
+Dominican Republic : 76456
+Guatemala : 83123
+Mexico : 110978
+Mexico : 111579
+Mexico : 115958
+Mexico : 116545
+Mexico : 116556
+Mexico : 116564
+Mexico : 117994
+Mexico : 118466
+Mexico : 124162
+Mexico : 124785
+Mexico : 131068
+Mexico : 133327
+Mexico : 133475
+Mexico : 134047
+Mexico : 134091
+Mexico : 134395
+Mexico : 137612
+Mexico : 138045
+Mexico : 141272
+Mexico : 144265
+Mexico : 149361
+Mexico : 149769
+Mexico : 151582
+Argentina : 332471
+Chile : 349859
+Chile : 349860
+Chile : 349861
+Colombia : 368148
+Colombia : 368149
+Colombia : 368150
+Colombia : 368151
+Ecuador : 375732
+Ecuador : 375733
+Venezuela : 395269
+Venezuela : 395270
+Venezuela : 395271
+Venezuela : 395272
+Venezuela : 395273
+Venezuela : 395275
+Venezuela : 395277
+Peru : 418440
+Brazil : 455819
+Brazil : 455820
+Brazil : 455821
+Brazil : 455822
+Brazil : 455823
+Brazil : 455824
+Brazil : 455825
+Brazil : 455826
+Brazil : 455827
+Brazil : 455828
+Brazil : 455830
+Brazil : 455831
+Brazil : 455833
+Brazil : 455834
+Brazil : 455867
+Argentina : 466861
+Argentina : 466862
+Venezuela : 468382
+Venezuela : 468384
+Argentina : 468739
+Poland : 493417
+Poland : 502075
+Poland : 505120
+Poland : 514048
+Poland : 523920
+Poland : 526363
+Austria : 551801
+Ireland : 560472
+Ireland : 560743
+Ireland : 560912
+France : 580778
+France : 608105
+France : 609125
+France : 610264
+France : 612977
+France : 613858
+France : 615702
+France : 619163
+France : 627791
+France : 628886
+Germany : 638242
+Germany : 641142
+Germany : 645458
+Germany : 645686
+Germany : 646099
+Germany : 648820
+Germany : 650272
+Germany : 656958
+Germany : 667931
+Germany : 671072
+Germany : 676757
+Germany : 698064
+Italy : 711080
+Italy : 716085
+Italy : 718345
+Italy : 719258
+Italy : 719846
+Italy : 721943
+Italy : 725003
+Netherlands : 726874
+Netherlands : 727232
+Netherlands : 733075
+Netherlands : 734047
+Spain : 753692
+Spain : 754542
+Spain : 764814
+Spain : 766273
+Spain : 766356
+Spain : 768026
+Spain : 769293
+Spain : 774508
+Spain : 776688
+Spain : 779063
+Switzerland : 782538
+Switzerland : 783058
+Switzerland : 784794
+Belarus : 824382
+Belarus : 825848
+Belarus : 825978
+Belarus : 834463
+Latvia : 854823
+Norway : 857105
+Norway : 862592
+Sweden : 890869
+Sweden : 906057
+Ukraine : 918981
+Ukraine : 919163
+Ukraine : 922137
+Ukraine : 924938
+Ukraine : 924943
+Ukraine : 929398
+Ukraine : 939628
+Greece : 946738
+Greece : 963291
+Indonesia : 1030077
+Indonesia : 1032539
+Indonesia : 1040779
+Indonesia : 1044316
+Indonesia : 1046138
+Indonesia : 1047180
+Indonesia : 1047378
+Indonesia : 1047908
+Indonesia : 1048059
+Indonesia : 1048324
+Indonesia : 1048536
+Singapore : 1062617
+Australia : 1098081
+Australia : 1099805
+Australia : 1100661
+Australia : 1100968
+Australia : 1101597
+Australia : 1103816
+Australia : 1105779
+Japan : 1110809
+Japan : 1116753
+Japan : 1117034
+Japan : 1117099
+Japan : 1117155
+Japan : 1117227
+Japan : 1117502
+Japan : 1117545
+Japan : 1117605
+Japan : 1117817
+Japan : 1117881
+Japan : 1118072
+Japan : 1118108
+Japan : 1118129
+Japan : 1118285
+Japan : 1118370
+Japan : 1118550
+Korea : 1130853
+Korea : 1132094
+Korea : 1132444
+Korea : 1132445
+Korea : 1132447
+Korea : 1132449
+Korea : 1132466
+Korea : 1132481
+Korea : 1132496
+Korea : 1132559
+Korea : 1132567
+Korea : 1132578
+Korea : 1132599
+Malaysia : 1141268
+Malaysia : 1154679
+Malaysia : 1154698
+Malaysia : 1154726
+Malaysia : 1154781
+Philippines : 1167715
+Philippines : 1180689
+Philippines : 1187115
+Philippines : 1195098
+Philippines : 1198785
+Philippines : 1199002
+Philippines : 1199079
+Philippines : 1199136
+Philippines : 1199477
+Philippines : 1199682
+Philippines : 1199980
+Thailand : 1225448
+Vietnam : 1236594
+Vietnam : 1236690
+Vietnam : 1252351
+Vietnam : 1252376
+Vietnam : 1252431
+Algeria : 1253079
+Ghana : 1326075
+Ghana : 1330595
+Nigeria : 1387660
+Nigeria : 1393672
+Nigeria : 1396439
+Nigeria : 1396803
+Nigeria : 1398823
+Nigeria : 1404447
+Egypt : 1521643
+Egypt : 1521894
+Egypt : 1522006
+Kenya : 1528335
+Kenya : 1528488
+South Africa : 1580913
+South Africa : 1582504
+South Africa : 1586614
+South Africa : 1586638
+South Africa : 1587677
+South Africa : 1591691
+Saudi Arabia : 1937801
+Saudi Arabia : 1939574
+Saudi Arabia : 1939753
+Saudi Arabia : 1939873
+Saudi Arabia : 1939897
+United Arab Emirates : 1940119
+United Arab Emirates : 1940330
+United Arab Emirates : 1940345
+Israel : 1967449
+Israel : 1968212
+Israel : 1968222
+Jordan : 1968902
+Russia : 1997422
+Russia : 2018708
+Russia : 2028717
+Russia : 2029043
+Russia : 2077746
+Russia : 2108210
+Russia : 2112237
+Russia : 2121040
+Russia : 2121267
+Russia : 2122265
+Russia : 2122471
+Russia : 2122541
+Russia : 2122641
+Russia : 2122814
+Russia : 2123177
+Russia : 2123260
+Russia : 2124045
+Russia : 2124288
+Russia : 2124298
+Pakistan : 2211096
+Pakistan : 2211177
+Pakistan : 2211269
+Pakistan : 2211387
+Pakistan : 2211574
+Oman : 2268284
+India : 2282863
+India : 2295377
+India : 2295378
+India : 2295381
+India : 2295383
+India : 2295386
+India : 2295387
+India : 2295388
+India : 2295401
+India : 2295402
+India : 2295404
+India : 2295405
+India : 2295407
+India : 2295408
+India : 2295410
+India : 2295411
+India : 2295412
+India : 2295414
+India : 2295420
+India : 2295424
+Turkey : 2323778
+Turkey : 2343678
+Turkey : 2343732
+Turkey : 2343733
+Turkey : 2343843
+Turkey : 2343932
+Turkey : 2343980
+Turkey : 2343999
+Turkey : 2344116
+Turkey : 2344117
+Turkey : 2344174
+Turkey : 2344210
+Japan : 2345896
+Korea : 2345975
+New Zealand : 2348079
+United States : 2352824
+United States : 2357024
+United States : 2357536
+United States : 2358820
+United States : 2359991
+United States : 2364559
+United States : 2367105
+United States : 2378426
+United States : 2379574
+United States : 2380358
+United States : 2381475
+United States : 2383489
+United States : 2383660
+United States : 2388929
+United States : 2391279
+United States : 2391585
+United States : 2397816
+United States : 2407517
+United States : 2414469
+United States : 2418046
+United States : 2423945
+United States : 2424766
+United States : 2427032
+United States : 2428184
+United States : 2428344
+United States : 2430683
+United States : 2436704
+United States : 2441472
+United States : 2442047
+United States : 2442327
+United States : 2449323
+United States : 2449808
+United States : 2450022
+United States : 2451822
+United States : 2452078
+United States : 2457170
+United States : 2458410
+United States : 2458833
+United States : 2459115
+United States : 2460389
+United States : 2464592
+United States : 2465512
+United States : 2466256
+United States : 2471217
+United States : 2471390
+United States : 2473224
+United States : 2475687
+United States : 2477058
+United States : 2478307
+United States : 2480894
+United States : 2486340
+United States : 2486982
+United States : 2487610
+United States : 2487796
+United States : 2487889
+United States : 2487956
+United States : 2488042
+United States : 2490383
+United States : 2503713
+United States : 2503863
+United States : 2508428
+United States : 2512636
+United States : 2514815
+Japan : 15015370
+Japan : 15015372
+India : 20070458
+United Arab Emirates : 23424738
+Algeria : 23424740
+Argentina : 23424747
+Australia : 23424748
+Austria : 23424750
+Bahrain : 23424753
+Belgium : 23424757
+Belarus : 23424765
+Brazil : 23424768
+Canada : 23424775
+Chile : 23424782
+Colombia : 23424787
+Denmark : 23424796
+Dominican Republic : 23424800
+Ecuador : 23424801
+Egypt : 23424802
+Ireland : 23424803
+France : 23424819
+Ghana : 23424824
+Germany : 23424829
+Greece : 23424833
+Guatemala : 23424834
+Indonesia : 23424846
+India : 23424848
+Israel : 23424852
+Italy : 23424853
+Japan : 23424856
+Jordan : 23424860
+Kenya : 23424863
+Korea : 23424868
+Kuwait : 23424870
+Lebanon : 23424873
+Latvia : 23424874
+Oman : 23424898
+Mexico : 23424900
+Malaysia : 23424901
+Nigeria : 23424908
+Netherlands : 23424909
+Norway : 23424910
+New Zealand : 23424916
+Peru : 23424919
+Pakistan : 23424922
+Poland : 23424923
+Panama : 23424924
+Portugal : 23424925
+Qatar : 23424930
+Philippines : 23424934
+Puerto Rico : 23424935
+Russia : 23424936
+Saudi Arabia : 23424938
+South Africa : 23424942
+Singapore : 23424948
+Spain : 23424950
+Sweden : 23424954
+Switzerland : 23424957
+Thailand : 23424960
+Turkey : 23424969
+United Kingdom : 23424975
+Ukraine : 23424976
+United States : 23424977
+Venezuela : 23424982
+Vietnam : 23424984
+Malaysia : 56013632
+Malaysia : 56013645
+Saudi Arabia : 56120136
+Japan : 90036018
