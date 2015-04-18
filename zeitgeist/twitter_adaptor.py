@@ -1,11 +1,15 @@
 import oauth2 as oauth
 import urllib2 as urllib
 from retrying import retry
+import ConfigParser
+Config = ConfigParser.ConfigParser()
+Config.read('zeitgeist/twitter_account.ini')
+print Config.sections()
 
-api_key = "RIPFFvW915REqc5j04Hzx0w0g"
-api_secret = "CyKuILWH6PbikpeoDHMf9NAgCWa3zGbhijYjXwsqsDqxlY2zdj"
-access_token_key = "529239260-ak0udIH3cNI1AtZbc0AImzYIoq2CQI0TT2zeXe0k"
-access_token_secret = "gmcZAKLLpxa4TbejBCGS0WMxJcfjt1OWhi8Z7noQQOQzQ"
+api_key = Config.get('security','api_key')
+api_secret = Config.get('security','api_secret')
+access_token_key = Config.get('security','access_token_key')
+access_token_secret = Config.get('security','access_token_secret')
 
 _debug = 0
 
