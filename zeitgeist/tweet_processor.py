@@ -16,6 +16,7 @@ class TweetProcessor():
             word = word.lower()
             if word in self.scores:
                 score += self.scores[word]
+                print word, self.scores[word]
         return score
 
 

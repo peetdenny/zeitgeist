@@ -1,5 +1,7 @@
+*.iml
 venv
 *.pyc
 .env
 .idea
 data
+zeitgeist/twitter_account.ini
