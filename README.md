@@ -1,6 +1,7 @@
 # zeitgeist
 
 To get up and running with Zeitgeist Engine, create a file called twitter_account.ini in the zeitgeist directory and add the following lines:
+(To set up a new twitter dev account, visit https://apps.twitter.com/ and create a new app)
 
 ```
 [security]
